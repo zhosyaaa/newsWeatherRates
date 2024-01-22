@@ -28,6 +28,7 @@ neWs is a web application that provides information about weather, currency conv
 - **Body-parser:** Middleware for parsing incoming request bodies.
 - **Axios:** Handles HTTP requests.
 - **Path:** Helps manage file paths.
+- **Nodemon** Monitors for changes and automatically restarts the server.
 
 ## APIs Used
 - OpenWeatherMap API - For weather data.
