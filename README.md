@@ -41,4 +41,3 @@ The server script is located in `root.js`. Start the server using `nodemon root.
 ## File Structure
 - `views/`: Contains client-side files (HTML, CSS, JS).
 - `routes/`: Server-side routes for request handling.
-- `bmiData.json`: Stores historical BMI calculation data.
